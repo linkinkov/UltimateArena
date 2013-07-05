@@ -1,4 +1,4 @@
-==UltimateArena
+==UltimateArena RUSSIAN EDIT
 ** This plugin allows people to create arenas in their world to fight in. Whether it is MobArena, a PvPArena, or HungerGames, you can fight 'till the death and be rewarded with gold!**
 ----
 
